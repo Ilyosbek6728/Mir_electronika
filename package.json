@@ -1,0 +1,8 @@
+{
+  "name": "mir-electronika",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "latest"
+  }
+}
